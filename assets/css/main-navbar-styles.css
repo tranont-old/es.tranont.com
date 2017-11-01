@@ -5,20 +5,20 @@ ul li img {
   letter-spacing: 2px;
 }
 .dropdown .dropdown-menu {
-    -webkit-transition: all;
-    -moz-transition: all;
-    -ms-transition: all;
-    -o-transition: all;
-    transition: all;
-    max-height: 0;
-    display: block;
-    overflow: hidden;
-    opacity: 0;
+  -webkit-transition: all;
+  -moz-transition: all;
+  -ms-transition: all;
+  -o-transition: all;
+  transition: all;
+  max-height: 0;
+  display: block;
+  overflow: hidden;
+  opacity: 0;
 }
 .dropdown.open .dropdown-menu {
-    max-height: 300px;
-    opacity: 1;
-    width: 190px;
+  max-height: 300px;
+  opacity: 1;
+  width: 275px;
 }
 .dropdown-header {
   padding: 5px 10px 2px 10px;
@@ -39,6 +39,9 @@ ul li img {
 .join-text {
   margin-left: 8px;
 }
+.nav > li > a {
+  padding: 15px 5px;
+}
 .navbar {
   cursor: pointer;
     margin-bottom: 0;
@@ -55,7 +58,7 @@ ul li img {
   padding: 4px 15px;
 }
 .navbar-brand img {
-  width: 165px;
+  width: 195px;
   border: none;
   margin: 0;
   padding: 0;
@@ -105,8 +108,17 @@ ul li img {
   .nav > li > a {
     padding: 15px 5px;
   }
+  .navbar-brand {
+    padding: 4px 5px;
+  }
+  .navbar-brand img {
+    width: 130px;
+    border: none;
+    margin: 0;
+    padding: 5px 0 0 0;
+  }
   .pull-right {
-    width: 165px;
+    width: 122px;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -118,17 +130,29 @@ ul li img {
   }
 }
 @media only screen and (max-width: 991px) {
+  .dropdown {
+    letter-spacing: 1px;
+  }
+  .dropdown-menu > li > a {
+    letter-spacing: 1px;
+  }
   .join-text {
     margin-left: 0;
   }
+  .nav > li > a {
+    padding: 15px 2px;
+  }
   .navbar-brand {
-    padding: 10px 15px;
+    padding: 5px;
   }
   .navbar-brand img {
     width: 125px;
   }
   .navbar-form {
     width: 90px;
+  }
+  .navbar-nav {
+    letter-spacing: 1px;
   }
   .pull-right {
     width: 85px;
@@ -143,11 +167,15 @@ ul li img {
   }
 }
 @media only screen and (max-width: 767px) {
+  .nav > li > a {
+    padding: 15px 5px;
+  }
   .navbar-brand {
     padding: 4px 15px;
   }
   .navbar-brand img {
     width: 195px;
+    padding: 0;
   }
   .navbar-form {
     width: auto;

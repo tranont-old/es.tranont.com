@@ -1,0 +1,86 @@
+ul li a i {
+  background: #888888;
+  color: #ffffff;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  font-size: 19px !important;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 23%;
+  padding-right: 1px;
+  transition: background-color .5s;
+}
+ul li a i:hover {
+  background-color: #05538a;
+}
+.footer {
+  background-color: #ffffff;
+  color: #05538a;
+  padding-top: 7px;
+  padding-bottom: 1%;
+}
+.socialmedia-icons {
+  overflow: auto;
+  padding-left: 0;
+}
+.socialmedia-icons li {
+  list-style-type: none;
+  float: left;
+}
+@media only screen and (max-width: 992px) {
+  ul li a i {
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    font-size: 19px !important;
+    margin-right: 7px;
+    margin-top: 7px;
+  }
+  .footer {
+    padding-bottom: 7px;
+  }
+}
+@media only screen and (max-width: 713px) {
+  ul li a i {
+    margin-top: 7px;
+    padding-left: 1px;
+  }
+  .footer {
+    font-size: 11px;
+  }
+}
+@media only screen and (max-width: 417px) {
+  ul li a i {
+    margin-top: 4px;
+    margin-right: 4px;
+    font-size: 18px !important;
+    padding-top: 9px;
+    padding-left: 1px;
+  }
+  .footer {
+    font-size: 8px;
+  }
+  #social-media {
+    float: right;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .col-xs-3 {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 360px) {
+  ul li a i {
+    padding-left: 1px;
+  }
+  .col-xs-3 {
+    padding: 0;
+  }
+  .footer {
+    font-size: 8px;
+  }
+  #social-media {
+    float: right;
+  }
+}

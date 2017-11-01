@@ -1,0 +1,1450 @@
+a {
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+.bottom-mods {
+  background-color: #05538a;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 20px 20px 20px;
+  height: 230px;
+  max-height: 230px;
+  overflow: hidden;
+}
+.bottom-mods h6 {
+  font-size: 16px;
+}
+.bottom-mods p {
+  padding: 10px 0;
+}
+.bottom-mods-hr1 {
+  border-color: #ffffff;
+  margin-top: 0;
+}
+.bottom-row {
+  position: relative;
+  top: -1px;
+}
+.btn-events {
+  position: absolute;
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+  border-radius: 50px;
+  top: 115px;
+  left: 515px;
+}
+.btn-events:hover {
+  background-color: #ffffff !important;
+  color: #05538a !important;
+}
+.btn-page {
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.btn-panel {
+  position: absolute;
+  margin-top: 315px;
+  left: 30px;
+  background-color: transparent !important;
+}
+.btn-page:hover {
+  background-color: #000001 !important;
+  color: #ffffff !important;
+}
+.clickable {
+  cursor: pointer;
+}
+.company {
+  position: absolute;
+  padding: 20px 30px 0 30px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.company-heading:hover {
+  background-color: #05538a !important;
+}
+.core {
+  position: absolute;
+  padding: 20px 30px 0 30px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.core-heading:hover {
+  background-color: #05538a !important;
+}
+.events-banner {
+  color: #ffffff;
+}
+.events-banner img {
+  width: 100%;
+  margin-bottom: 55px;
+}
+.events-banner .col-xs-12 {
+  padding-left: 0;
+  padding-right: 0;
+  top: -10px;
+}
+.events-banner .heading {
+  font-size: 12px;
+  position: absolute;
+  top: 35px;
+  left: 370px;
+}
+.events-banner .heading2 {
+  font-size: 50px;
+  position: absolute;
+  top: 40px;
+  left: 380px;
+  font-weight: bold;
+}
+.events-banner .heading2-left {
+  position: absolute;
+  font-size: 12px;
+  top: 128px;
+  left: 328px;
+}
+.events-banner .heading2-right {
+  position: absolute;
+  font-size: 12px;
+  top: 115px;
+  left: 700px;
+  text-align: center;
+  line-height: 15px;
+}
+.events-banner-text {
+  font-weight: bold;
+  position: absolute;
+  top: 46px;
+  left: 70px;
+  line-height: 31px;
+  font-size: 24px;
+}
+.events-banner-text .bottom-line {
+  font-size: 31.5px;
+  margin-left: -3px;
+}
+.events-banner-text .header {
+  font-weight: 200;
+  letter-spacing: 10.5px;
+  font-size: 18px;
+}
+.events-hr1 {
+  border-color: #ffffff;
+  position: absolute;
+  top: 25px;
+  padding: 0px 122px;
+  left: 200px;
+  margin-left: -130px;
+}
+.events-hr2 {
+  border-color: #ffffff;
+  position: absolute;
+  top: 130px;
+  left: 200px;
+  padding: 0 122px;
+  margin-left: -130px;
+}
+.family .col-xs-12 {
+  padding: 0;
+  margin-top: -70px;
+}
+.family h4 {
+  font-size: 28px;
+  color: #ffffff;
+}
+.family h6 {
+  font-size: 21px;
+  color: #05538a;
+}
+.family h4, .family h6 {
+  position: relative;
+  top: 72px;
+  margin-left: 30px;
+}
+.family img {
+  width: 100%;
+  margin-top: -135px;
+}
+.glyphicon-triangle-bottom {
+  font-size: 65%;
+  top: 0px;
+}
+.glyphicon-triangle-right {
+  font-size: 65%;
+  top: 0px;
+}
+.event {
+  margin-bottom: -50px;
+}
+.event img {
+  margin-bottom: -15px;
+  width: 100%;
+  z-index: -1;
+  position: relative;
+  top: 25px;
+  left: 7px;
+}
+.event-6 {
+  display: block;
+}
+.event-12 {
+  display: none;
+}
+.event-hr-top {
+  border-color: #000001;
+  margin: 50px 0 40px 0;
+}
+.event-hr-bottom {
+  border-color: #000001;
+  margin: 50px 0;
+}
+.event-slimline {
+  padding: 10px 0;
+  text-align: center;
+  border: 0px solid #fff;
+  position: relative;
+  width: 80%;
+  left: 10%;
+}
+.event-slimline h5 {
+  letter-spacing: 1px;
+  position: relative;
+  top: 3px;
+  left: -35px;
+}
+.event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+  border: 0;
+  background-color: #05538a;
+  border-radius: 0;
+  position: relative;
+  top: 12px;
+}
+.event-text {
+  margin: 55px 25px 0 0;
+  text-align: center;
+}
+.event-text h2 {
+  font-weight: bold;
+  font-size: 40px
+}
+.event-text h6 {
+  font-weight: 200;
+  font-size: 14px;
+}
+.jeep {
+  margin-bottom: -50px;
+}
+.jeep img {
+  margin-bottom: -15px;
+  width: 195%;
+  z-index: -1;
+  position: relative;
+  top: -41px;
+  left: 28px;
+}
+.jeep-hr-top {
+  border-color: #000001;
+  margin: 50px 0 40px 0;
+}
+.jeep-hr-bottom {
+  border-color: #000001;
+  margin: 50px 0;
+}
+.jeep-text {
+  margin: 55px 25px 0 0;
+  text-align: center;
+}
+.jeep-text h2 {
+  font-weight: bold;
+  font-size: 40px
+}
+.jeep-text h6 {
+  font-weight: 200;
+  font-size: 14px;
+}
+.main {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.main .btn-main {
+  border-radius: 50px;
+}
+.main .btn-default {
+  border: 2px solid #000001;
+  background-color: #ffffff;
+  color: #000001;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px 15px;
+  letter-spacing: 3px;
+}
+.main .btn-main:hover {
+  border: 2px solid #ffffff;
+  background-color: #000001;
+  color: #ffffff;
+}
+.mission-text {
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+.panel-body {
+  padding: 0;
+}
+.panel-body img {
+  width: 100%;
+  z-index: -1;
+}
+.panel-default {
+  border: none;
+}
+.panel-default>.panel-heading {
+  background-color: #888b8d;
+  color: #ffffff;
+  border-radius: 0;
+}
+.panel-group {
+  margin-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 0;
+  background-color: #05538a;
+  color: #000001;
+}
+.panel-title {
+  text-align: center;
+}
+.process {
+  position: absolute;
+  padding: 20px 30px 0 30px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.process-heading:hover {
+  background-color: #05538a !important;
+}
+.top-row {
+  display: block;
+  margin-top: 50px;
+}
+.top-row-video {
+  display: none;
+  margin-top: 50px;
+}
+.top-section-text {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  text-align: center;
+}
+.top-section-text h6 {
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 200;
+  color: #ffffff;
+}
+.top-section-text h2 {
+  color: #ffffff;
+  line-height: 32px;
+  font-size: 24px;
+  margin-top: 45px;
+}
+.top-section-text img {
+  width: 340px;
+}
+.top-section-text .btn-default {
+  border: 2px solid #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 12px 12px 22px;
+}
+.top-section-text .btn-default:hover {
+  border: 2px solid #ffffff;
+  background-color: #05538a;
+  color: #ffffff;
+}
+.top-section-video {
+  padding: 0;
+  z-index: -1;
+}
+.top-section-video-play {
+  padding: 0;
+}
+.top-video {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+#buttonEventMovie {
+  border-radius: 0;
+  border: none;
+  color: #ffffff;
+  padding: 1px 15px;
+  display: block;
+  margin: 0 auto;
+  letter-spacing: 1px;
+  position: relative;
+  top: -170px;
+  left: 7px;
+  background-color: rgba(5,83,138,0.5);
+}
+#buttonEventMovie:hover {
+  text-decoration: none;
+}
+#buttonEventMovie h5 {
+  font-size: 40px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  position: relative;
+  top: -4px;
+  left: 1px;
+}
+#eventMovie {
+  position: relative;
+  top: 20px;
+  left: -30px;
+}
+@media only screen and (max-width: 1200px) {
+  .bottom-mods p {
+    padding: 0;
+  }
+  .btn-events {
+    top: 85px;
+    left: 420px;
+  }
+  .btn-panel {
+    margin-top: 255px;
+  }
+  .company {
+    font-size: 16px;
+  }
+  .core {
+    font-size: 16px;
+  }
+  .event img {
+    top: 55px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 14px;
+    left: -35px;
+  }
+  .family .col-xs-12 {
+    padding: 0;
+    margin-top: -5px;
+  }
+  .family h4 {
+    font-size: 24px;
+    color: #ffffff;
+  }
+  .family h6 {
+    font-size: 18px;
+    color: #05538a;
+  }
+  .family h4, .family h6 {
+    position: relative;
+    top: 38px;
+    margin-left: 30px;
+  }
+  .family img {
+    width: 100%;
+    margin-top: -138px;
+  }
+  .jeep img {
+    top: -15px;
+    left: 35px;
+  }
+  .jeep-hr-bottom {
+    margin: 35px 0;
+  }
+  .jeep-text {
+    margin: 34px 25px 30px 0;
+  }
+  .mission-text {
+    padding-bottom: 40px;
+  }
+  .process {
+    font-size: 16px;
+  }
+  .top-section-text {
+    top: 161px;
+  }
+  #buttonEventMovie {
+    top: -108px;
+    left: 7px;
+  }
+  #dissappearing-br {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .bottom-mods h6 {
+    font-size: 16px;
+  }
+  .bottom-mods p {
+    font-size: 14px;
+  }
+  .btn-panel {
+    margin-top: 196px;
+    margin-left: -12px;
+  }
+  .company {
+    font-size: 14px;
+    padding: 10px 15px 0 20px;
+    line-height: 17px;
+    letter-spacing: 3px;
+  }
+  .core {
+    font-size: 14px;
+    padding: 10px 15px 0 20px;
+    line-height: 17px;
+    letter-spacing: 3px;
+  }
+  .event img {
+    top: 49px;
+  }
+  .family h4 {
+    font-size: 24px;
+    color: #ffffff;
+  }
+  .family h6 {
+    font-size: 18px;
+    color: #05538a;
+  }
+  .family h4, .family h6 {
+    position: relative;
+    top: -5px;
+    margin-left: 30px;
+  }
+  .family img {
+    margin-top: -182px;
+    width: 100%;
+  }
+  .jeep img {
+    width: 215%;
+    top: -40px;
+    left: 12px;
+  }
+  .main .btn-default {
+    padding: 5px 10px;
+    font-size: 10px;
+    letter-spacing: 2px;
+  }
+  .mission-text {
+    padding-bottom: 22px;
+  }
+  .process {
+    font-size: 14px;
+    padding: 10px 15px 0 20px;
+    line-height: 17px;
+    letter-spacing: 3px;
+  }
+  #video-button {
+    font-size: 30px;
+    padding: 8px 14px 10px 18px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .bottom-mods p {
+    font-size: 12px;
+  }
+  .btn-events {
+    top: 70px;
+    left: 228px;
+  }
+  .btn-panel {
+    margin-top: 191px;
+  }
+  .event img {
+    top: 48px;
+  }
+  .event-hr-bottom {
+    margin: 25px 0 35px 0;
+  }
+  .event-hr-top {
+    margin: 43px 0 20px 0;
+  }
+  .event-slimline {
+    padding: 10px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 1px;
+    position: relative;
+    top: 2px;
+    left: -10px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 1px;
+    position: relative;
+    top: -1px;
+    left: -32px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 16px;
+    left: -36px;
+    letter-spacing: 1px;
+  }
+  .event-text {
+    margin: 0 25px 0 0;
+  }
+  .event-text h2 {
+    font-size: 33px;
+  }
+  .event-text h6 {
+    font-size: 12px;
+  }
+  .events-banner .heading {
+    font-size: 9px;
+    top: 8px;
+    left: 208px;
+    letter-spacing: 2.5px;
+  }
+  .events-banner .heading2 {
+    top: 15px;
+    left: 207px;
+    font-size: 34px;
+  }
+  .events-banner .heading2-left {
+    top: 58px;
+    left: 386px;
+    letter-spacing: 3px;
+    font-size: 10px;
+  }
+  .events-banner .heading2-right {
+    top: 77px;
+    left: 387px;
+    letter-spacing: 2.5px;
+    font-size: 9px;
+    line-height: 12px;
+  }
+  .events-banner-text {
+    top: 25px;
+    left: 22px;
+    font-size: 15px;
+    letter-spacing: 4.25px;
+    line-height: 23px;
+  }
+  .events-banner-text .bottom-line {
+    font-size: 20.5px;
+  }
+  .events-banner-text .header {
+    font-size: 13.5px;
+    letter-spacing: 7px;
+  }
+  .events-hr1 {
+    padding: 0 88px;
+    top: 0;
+    left: 150px;
+  }
+  .events-hr2 {
+    padding: 0 88px;
+    top: 83px;
+    left: 150px;
+  }
+  .family .col-xs-12 {
+    margin-top: -5px;
+  }
+  .family h4 {
+    font-size: 20px;
+    color: #ffffff;
+  }
+  .family h6 {
+    font-size: 14px;
+    color: #05538a;
+  }
+  .family h4, .family h6 {
+    position: relative;
+    top: 17px;
+    margin-left: 30px;
+  }
+  .family img {
+    margin-top: -122px;
+    width: 100%;
+  }
+  .jeep img {
+    width: 218%;
+    top: -15px;
+    left: 10px;
+  }
+  .jeep-hr-top {
+    margin: 30px 0 30px 0;
+  }
+  .top-section-text {
+    top: 155px;
+  }
+  .top-section-text h2 {
+    line-height: 30px;
+    font-size: 21px;
+    margin: 15px 0 0 0;
+  }
+  .top-section-text h6 {
+    font-size: 18px;
+    line-height: 15px;
+  }
+  .top-section-text img {
+    width: 235px;
+  }
+  #buttonEventMovie {
+    top: -71px;
+  }
+  #buttonEventMovie h5 {
+    font-size: 33px;
+    left: -4px;
+  }
+}
+@media only screen and (max-width: 730px) {
+  .btn-panel {
+    margin-top: 170px;
+  }
+  .btn-events {
+    top: 64px;
+    left: 205px;
+  }
+  .company {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .core {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 1px;
+    position: relative;
+    top: -2px;
+    left: -10px;
+    font-size: 14px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: 4px;
+    left: -44px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 8px;
+    left: -49px;
+    letter-spacing: 1px;
+  }
+  .events-banner .heading {
+    font-size: 8px;
+    left: 180px;
+  }
+  .events-banner .heading2 {
+    left: 192px;
+    font-size: 30px;
+  }
+  .events-banner .heading2-left {
+    top: 55px;
+    left: 361px;
+    font-size: 9px;
+  }
+  .events-banner .heading2-right {
+    top: 70px;
+    left: 358px;
+    line-height: 11px;
+  }
+  .events-banner-text {
+    top: 26px;
+    font-size: 11px;
+    line-height: 17px;
+  }
+  .events-banner-text .bottom-line {
+    font-size: 15.75px;
+  }
+  .events-banner-text .header {
+    font-size: 9px;
+  }
+  .events-hr1 {
+    padding: 0 73px;
+  }
+  .events-hr2 {
+    padding: 0 73px;
+    top: 66px;
+  }
+  .jeep-text h2 {
+    font-size: 34px;
+  }
+  .jeep img {
+    width: 246%;
+    top: -12px;
+    left: -12px;
+  }
+  .process {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .top-section-text {
+    top: 125px;
+  }
+  #buttonEventMovie {
+    top: -59px;
+  }
+  #buttonEventMovie h5 {
+    left: -9px;
+  }
+  #video-button {
+    font-size: 20px;
+    padding: 5px 8px 8px 13px;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .bottom-mods {
+    padding: 20px 10px 10px 20px;
+  }
+  .btn-panel {
+    margin-top: 84px;
+    margin-left: 5px;
+  }
+  .btn-events {
+    top: 59px;
+    left: 175px;
+    font-size: 8px !important;
+    padding: 4px 7px !important;
+  }
+  .event img {
+    top: -20px;
+    left: 0px;
+  }
+  .event-6 {
+    display: none;
+  }
+  .event-12 {
+    display: block;
+  }
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 1px;
+    position: relative;
+    top: -2px;
+    left: -2px;
+    font-size: 14px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: 0px;
+    left: -27px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 10px;
+    left: -44px;
+    letter-spacing: 1px;
+    font-size: 11px;
+  }
+  .event-text {
+    margin: 0;
+  }
+  .events-banner .heading {
+    display: none;
+  }
+  .events-banner .heading2 {
+    font-size: 20px;
+    top: 10px;
+  }
+  .events-banner .heading2-left {
+    top: 40px;
+    left: 290px;
+  }
+  .events-banner .heading2-right {
+    top: 54px;
+    left: 286px;
+  }
+  .events-banner-text {
+    top: 21px;
+  }
+  .events-hr1 {
+    top: -5px;
+  }
+  .events-hr2 {
+    top: 61px;
+  }
+  .fa-caret-square-o-right {
+    position: realtive;
+    top: -1px;
+  }
+  .jeep img {
+    width: 265%;
+    margin-left: -25px;
+    margin-top: -10px;
+  }
+  .jeep-hr-bottom {
+    margin: 40px 0;
+  }
+  .jeep-hr-top {
+    margin: 30px 0 10px 0;
+  }
+  .jeep-text {
+    margin: 15px 25px 15px 0;
+  }
+  .jeep-text h2 {
+    font-size: 24px;
+  }
+  .jeep-text h6 {
+    font-size: 14px;
+  }
+  .mission-text {
+    padding-bottom: 36px;
+  }
+  .panel-title {
+    font-size: 12px;
+  }
+  .top-section-text {
+    top: 136px;
+  }
+  .top-section-text h2 {
+    font-size: 16px;
+    line-height: 21px;
+    margin-bottom: 0;
+  }
+  .top-section-text h6 {
+    font-size: 12px;
+    line-height: 8px;
+  }
+  .top-section-text img {
+    width: 150px;
+  }
+  #buttonEventMovie {
+    top: -199px;
+    left: 0px;
+  }
+  #buttonEventMovie h5 {
+    font-size: 33px;
+    top: -2px;
+  }
+  #company-text {
+    display: none;
+  }
+  #core-text {
+    display: none;
+  }
+  #process-text {
+    display: none;
+  }
+}
+@media only screen and (max-width: 565px) {
+  .bottom-mods p {
+    padding-top: 10px;
+  }
+  .bottom-mods-hr1 {
+    margin-bottom: 0;
+  }
+  .bottom-mods-hr2 {
+    margin: 0;
+  }
+  .btn-events {
+    top: 50px;
+    left: 190px;
+  }
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 0px;
+    position: relative;
+    top: -2px;
+    left: -9px;
+    font-size: 14px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: 3px;
+    left: -36px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 17px;
+    left: -55px;
+    letter-spacing: 1px;
+    font-size: 11px;
+  }
+  .events-banner .heading {
+    font-size: 8px;
+    left: 180px;
+  }
+  .events-banner .heading2 {
+    left: 155px;
+    font-size: 17px;
+    top: 5px;
+  }
+  .events-banner .heading2-left {
+    top: 32px;
+    left: 180px;
+  }
+  .events-banner .heading2-right {
+    display: none;
+  }
+  .events-banner-text {
+    top: 19px;
+    left: 12px;
+    font-size: 9px;
+    line-height: 14px;
+  }
+  .events-banner-text .bottom-line {
+    font-size: 13.25px;
+  }
+  .events-banner-text .header {
+    font-size: 8px;
+    letter-spacing: 6px;
+  }
+  .events-hr1 {
+    top: -5px;
+    left: 140px;
+    padding: 0 63px;
+  }
+  .events-hr2 {
+    top: 46px;
+    left: 140px;
+    padding: 0 63px;
+  }
+  .panel-title {
+    font-size: 10px;
+  }
+  .jeep img {
+    margin-top: 10px;
+  }
+  .top-section-text {
+    top: 152px;
+  }
+  .top-section-text h2 {
+    display: none;
+  }
+  .top-section-text img {
+    width: 175px;
+    margin-bottom: 20px;
+  }
+  #buttonEventMovie {
+    top: -174px;
+  }
+  #company {
+    display: none;
+  }
+  #core {
+    display: none;
+  }
+  #process {
+    display: none;
+  }
+}
+@media only screen and (max-width: 473px) {
+  .bottom-mods p {
+    font-size: 11px;
+  }
+  .btn-events {
+    top: 35px;
+    left: 155px;
+  }
+  .btn-panel {
+    margin-left: -20px;
+  }
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 0px;
+    position: relative;
+    top: -1px;
+    left: -11px;
+    font-size: 12px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: 1px;
+    left: -43px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 15px;
+    left: -65px;
+    letter-spacing: 1px;
+    font-size: 11px;
+  }
+  .events-banner .heading {
+    font-size: 8px;
+    left: 180px;
+  }
+  .events-banner .heading2 {
+    left: 123px;
+    font-size: 15px;
+    top: 2px;
+  }
+  .events-banner .heading2-left {
+    top: 21px;
+    left: 141px;
+  }
+  .events-banner .heading2-right {
+    display: none;
+  }
+  .events-banner-text {
+    top: 14px;
+    font-size: 8px;
+    line-height: 12px;
+    letter-spacing: 3px;
+  }
+  .events-banner-text .bottom-line {
+    font-size: 11.50px;
+  }
+  .events-banner-text .header {
+    letter-spacing: 4px;
+  }
+  .events-hr1 {
+    top: -10px;
+    padding: 0 52px;
+  }
+  .events-hr2 {
+    top: 34px;
+    padding: 0 52px;
+  }
+  .jeep img {
+    margin-left: -25px;
+    width: 305%;
+    margin-top: 5px;
+  }
+  .top-section-text {
+    top: 145px;
+  }
+  .top-section-text img {
+    width: 150px;
+  }
+  #buttonEventMovie {
+    top: -156px;
+  }
+  #buttonEventMovie h5 {
+    left: -3px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .bottom-mods {
+    height: 238px;
+    max-height: 238px;
+    padding: 20px 10px 10px 10px;
+  }
+  .bottom-mods h6 {
+    font-size: 14px;
+  }
+  .bottom-mods p {
+    font-size: 11px;
+  }
+  .btn-events {
+    top: 33px;
+    left: 145px;
+  }
+  .btn-panel {
+    margin-top: 48px;
+    margin-left: -17px;
+  }
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 0px;
+    position: relative;
+    top: -1px;
+    left: -14px;
+    font-size: 12px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: 9px;
+    left: -36px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 22px;
+    left: -29px;
+    letter-spacing: 1px;
+    font-size: 8px;
+  }
+  .family .col-xs-12 {
+    margin-top: 10px;
+  }
+  .jeep img {
+    margin-top: 30px;
+    width: 335%;
+    margin-left: -20px;
+  }
+  .jeep-hr-bottom {
+    margin: 25px 0;
+  }
+  .jeep-text h2 {
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+  .main .btn-default {
+    font-size: 8px;
+  }
+  .top-section-text {
+    top: 184px;
+  }
+  #buttonEventMovie {
+    top: -154px;
+  }
+  #buttonEventMovie h5 {
+    left: -1px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .bottom-mods {
+    height: 207px;
+    padding: 20px 10px 10px 10px;
+  }
+  .bottom-mods h6 {
+    font-size: 11px;
+    letter-spacing: 3px;
+  }
+  .bottom-mods p {
+    font-size: 9px;
+  }
+  .btn-events {
+    top: 33px;
+    left: 145px;
+  }
+  .btn-panel {
+    margin-top: 48px;
+    margin-left: -17px;
+  }
+  .family .col-xs-12 {
+    margin-top: 10px;
+  }
+  .jeep img {
+    margin-top: 28px;
+    margin-left: -25px;
+  }
+  .jeep-hr-bottom {
+    margin: 25px 0;
+  }
+  .jeep-text h2 {
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+  .main .btn-default {
+    font-size: 8px;
+  }
+  .panel-title {
+    font-size: 8px;
+    letter-spacing: 3px;
+  }
+  .top-section-text {
+    top: 136px;
+  }
+  .top-section-text h2 {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  #buttonEventMovie {
+    top: -148px;
+  }
+  #buttonEventMovie h5 {
+    left: -3px;
+  }
+  #video-button {
+    font-size: 14px;
+    padding: 3px 5px 5px 9px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .bottom-mods {
+    padding: 20px 10px 10px 10px;
+  }
+  .bottom-mods h6 {
+    font-size: 11px;
+    letter-spacing: 3px;
+  }
+  .bottom-mods p {
+    font-size: 9px;
+  }
+  .btn-events {
+    top: 33px;
+    left: 145px;
+  }
+  .btn-panel {
+    margin-top: 40px;
+    margin-left: -25.5px;
+  }
+  .events-banner .heading2 {
+    font-size: 13px;
+  }
+  .events-banner .heading2-left {
+    top: 19px;
+    left: 131px;
+  }
+  .events-banner-text {
+    top: 12px;
+  }
+  .events-banner-text .bottom-line {
+    font-size: 11.50px;
+  }
+  .events-banner-text .header {
+    letter-spacing: 4px;
+  }
+  .events-hr1 {
+    top: -12px;
+  }
+  .events-hr2 {
+    top: 32px;
+  }
+  .family .col-xs-12 {
+    margin-top: 10px;
+  }
+  .jeep img {
+    margin-top: 30px;
+    width: 365%;
+    margin-left: -25px;
+  }
+  .jeep-hr-bottom {
+    margin: 25px 0;
+  }
+  .jeep-text h2 {
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+  .main .btn-default {
+    font-size: 8px;
+  }
+  .panel-title {
+    font-size: 8px;
+    letter-spacing: 2px;
+  }
+  .top-section-text h2 {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  .top-section-text img {
+    width: 130px;
+  }
+  #buttonEventMovie {
+    top: -145px;
+  }
+  #buttonEventMovie h5 {
+    left: -1px;
+  }
+  #video-button {
+    font-size: 14px;
+    padding: 3px 5px 5px 9px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .event-slimline {
+    padding: 5px 0;
+    text-align: center;
+    border: 0px solid #e35205;
+    position: relative;
+    width: 80%;
+    left: 10%;
+  }
+  .event-slimline h4 {
+    letter-spacing: 0px;
+    position: relative;
+    top: -2px;
+    left: 4px;
+    font-size: 12px;
+  }
+  .event-slimline h5 {
+    letter-spacing: 0px;
+    position: relative;
+    top: -5px;
+    left: 28px;
+    font-size: 9px;
+  }
+  .event-slimline .btn-info, .event-slimline .btn-info:active, .event-slimline .btn-info:visited, .event-slimline .btn-info:focus {
+    border: 0;
+    background-color: #05538a;
+    border-radius: 0;
+    position: relative;
+    top: 40px;
+    left: -52px;
+    letter-spacing: 1px;
+    font-size: 8px;
+  }
+  .fa-caret-square-o-right {
+    position: relative;
+    top: -1px;
+  }
+  .top-section-text {
+    top: 154px;
+  }
+  .top-section-text img {
+    width: 120px;
+    margin-bottom: 12px;
+  }
+  #buttonEventMovie {
+    top: -133px;
+  }
+  #buttonEventMovie h5 {
+    left: -9px;
+    letter-spacing: 1px;
+  }
+}
